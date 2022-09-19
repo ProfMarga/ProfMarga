@@ -1,7 +1,7 @@
 # Sobre mim
 :+1: Oi, eu sou a Professora Margarete
 
-:atom_symbol:Professora de Química
+:atom_symbol:Professora de Química e Pensamento Computacional
 
 :sunglasses:Mestre em Ciência, Educação e Tecnologia
 
