@@ -1,8 +1,7 @@
 #Sobre mim
 - 👋 Oi, eu sou a professora Margarete
-- 👀 Estou interessada em Programação
-
-- 🌱 I’m currently learning ...
+- 👀 Estou interessada em Programaç
+- - 🌱 I’m currently learning  html/CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
