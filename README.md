@@ -1,11 +1,8 @@
 #Sobre mim
 - 👋 Oi, eu sou a professora Margarete
-- 👀 Estou interessada em Programaç
-- - 🌱 I’m currently learning  html/CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Estou interessada em Programação
+- 🌱 Estou estudando  html/CSS
+- 💞️ Quero colaborar com a aprendizagem dos meus alunos
+- 📫 Você pode me encontrar em goncalves.margarete@escola.pr.gov.br
 
-<!---
-ProfMarga/ProfMarga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
